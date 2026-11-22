@@ -1,5 +1,7 @@
 # Privacy Policy: G1 Driving Test Ontario
 
+> **This privacy policy has moved.** The current version is at **https://yogeshpatelios.github.io/g1/privacy/**
+
 **Last updated: November 18, 2026**
 
 G1 Driving Test Ontario ("the app") is a free app made by Yogesh Patel to help people prepare for the Ontario G1 knowledge test. This page explains what information the app uses and why.
